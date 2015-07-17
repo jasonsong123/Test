@@ -1,2 +1,11 @@
 # Test
-Just building a personal blog.Love it.Beginning to feel like a programmer.
+<html>
+<head>
+<style>
+  p:{color:red}
+</style>
+
+<body>
+<p>this is my first page.I'm gonna make it!</p>
+</body>
+</html>
